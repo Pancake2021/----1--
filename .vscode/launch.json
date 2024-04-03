@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/glebpankeev/Desktop/Лаба1ПП",
-      "program": "/Users/glebpankeev/Desktop/Лаба1ПП/build/Debug/outDebug"
+      "cwd": "/Users/glebpankeev/Desktop/Параллель прог — копия/----1---1",
+      "program": "/Users/glebpankeev/Desktop/Параллель прог — копия/----1---1/build/Debug/outDebug"
     }
   ]
 }
